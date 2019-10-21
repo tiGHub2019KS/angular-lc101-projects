@@ -2,8 +2,9 @@ h3 {
    color: brown;
 }
 
-img {
-
+.photos {
+      width: 1500px;
+      height: 900px;
 }
 
 .photos {
